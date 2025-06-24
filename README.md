@@ -36,7 +36,7 @@ A modern, user-friendly desktop application to extract text from images using Te
 - **Submit Issue on GitHub**: Use the Help menu > "Submit Issue on GitHub" to open the issues page in your browser.
 
 ## Screenshots
-*Add screenshots here if desired*
+![Image](https://github.com/user-attachments/assets/24e1c7fb-fffa-4a08-9990-78f0b75f2adf)
 
 ## License
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
