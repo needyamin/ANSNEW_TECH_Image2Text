@@ -1,0 +1,4 @@
+pytesseract
+pillow
+requests
+# tkinter is included with standard Python installations 
